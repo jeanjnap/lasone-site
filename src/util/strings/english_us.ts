@@ -9,6 +9,6 @@ export const ENGLISH_US = {
     createAccount: "Create Account",
     forgetPass: "Forget password",
     languages: "Languages: ",
-    
+    since: "2018 - 2018",
     iAccept: " I accept the license terms"
 }
